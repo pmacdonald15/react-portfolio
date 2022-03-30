@@ -62,7 +62,7 @@ describe('links are visible', () => {
       setContactSelected={mockSetContactSelected}
     />);
 
-    expect(getByTestId('link')).toHaveTextContent('Oh Snap!');
+    expect(getByTestId('link')).toHaveTextContent('Phillip MacDonald');
     expect(getByTestId('about')).toHaveTextContent('About me');
   });
 })

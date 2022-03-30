@@ -59,7 +59,10 @@ function ContactForm() {
         )}
         <button data-testid="button" type="submit">Submit</button>
       </form>
-    </section>
+      <a href="https://github.com/pmacdonald15"> Github</a>
+      
+      <a href="https://www.linkedin.com/in/phillip-macdonald-b0ab45220/"> LinkedIn</a>
+      </section>
   );
 }
 

@@ -16,7 +16,7 @@ exports[`Nav component matches snapshot DOM node structure 1`] = `
         >
            📸
         </span>
-         Oh Snap!
+         Phillip MacDonald!
       </a>
     </h2>
     <nav>
